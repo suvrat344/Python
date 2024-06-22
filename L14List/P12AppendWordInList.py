@@ -2,7 +2,7 @@
 # Input                             Expected Output
 # Test Case1
 # 4
-# a                              ['a', 'list', 'of', 'words']
+# a                              ['a','list','of','words']
 # list
 # of
 # words
